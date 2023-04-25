@@ -17,6 +17,13 @@ public class Palindrome {
 		else {
 			System.out.println(s+" is not palindrome");
 		}
+		
+		int num = 16;
+		
+		if(num==((num/2)*(num/2))) {
+			System.out.println(num+" is square number");
+		
+		}
 
 	}
 
